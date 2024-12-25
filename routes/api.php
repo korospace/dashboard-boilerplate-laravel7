@@ -1,22 +1,9 @@
 <?php
 
-use App\Http\Controllers\AkreditasiLksController;
-use App\Http\Controllers\ArticleController;
-use App\Http\Controllers\BankController;
 use App\Http\Controllers\DashboardController;
-use App\Http\Controllers\EducationController;
-use App\Http\Controllers\HomepageController;
-use App\Http\Controllers\KarangTarunaController;
-use App\Http\Controllers\LayananLksController;
-use App\Http\Controllers\LksController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\NotificationController;
-use App\Http\Controllers\PsmController;
-use App\Http\Controllers\RegionController;
-use App\Http\Controllers\SiteController;
-use App\Http\Controllers\TkskController;
 use App\Http\Controllers\UserController;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
